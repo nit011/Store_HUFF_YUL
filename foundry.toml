@@ -16,4 +16,4 @@ remappings = [
 runs = 256
 seed = '0x3'
 
-# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+
